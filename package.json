@@ -1,0 +1,12 @@
+{
+  "name": "prettier-sort-destructure",
+  "version": "0.0.2",
+  "description": "A prettier parser that sorts the destructured keys in object assignments",
+  "main": "index.js",
+  "repository": "http://github.com/tocttou/prettier-sort-destructure",
+  "author": "Ashish Chaudhary",
+  "license": "MIT",
+  "dependencies": {
+    "estree-walker": "^0.6.1"
+  }
+}
