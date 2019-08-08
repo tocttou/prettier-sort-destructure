@@ -1,6 +1,6 @@
 {
   "name": "prettier-sort-destructure",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A prettier parser that sorts the destructured keys in object assignments",
   "main": "index.js",
   "repository": "http://github.com/tocttou/prettier-sort-destructure",
